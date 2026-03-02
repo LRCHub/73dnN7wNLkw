@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "mob",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-03-02T16:21:14.139834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mob Ties",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Mob_Ties_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ultimate Satisfaction (feat. Field Mob)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/02_Ultimate_Satisfaction_(feat._Field_Mob)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mango Pickle Down River (With The Wilcannia Mob)",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/03_Mango_Pickle_Down_River_(With_The_Wilcannia_Mob)_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call of da Wild (feat. Goodie Mob)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/04_Call_of_da_Wild_(feat._Goodie_Mob)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Git Up, Git Out (feat. Goodie Mob)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/05_Git_Up,_Git_Out_(feat._Goodie_Mob)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Git Up, Get Out (feat. Goodie Mob)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/06_Git_Up,_Get_Out_(feat._Goodie_Mob)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mob",
+      "artist": "DJ Shadow",
+      "has_synced": false,
+      "path": "select/07_Mob_DJ_Shadow.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mob Ties (feat. Young Thug)",
+      "artist": "YTB Trench feat. Young Stoner Life & Young Thug",
+      "has_synced": false,
+      "path": "select/08_Mob_Ties_(feat._Young_Thug)_YTB_Trench_feat._Young_Stoner_Life_&_Young_Thug.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mob Ties (feat. Young Thug)",
+      "artist": "YTB Trench",
+      "has_synced": false,
+      "path": "select/09_Mob_Ties_(feat._Young_Thug)_YTB_Trench.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mob Ties (feat. 24 Heavy & Slime Life Shawty)",
+      "artist": "Unfoonk",
+      "has_synced": true,
+      "path": "select/10_Mob_Ties_(feat._24_Heavy_&_Slime_Life_Shawty)_Unfoonk.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mob Ties Remix (feat. Unfoonk, 24Heavy, Future & YTB Trench)",
+      "artist": "Young Stoner Life feat. Young Thug, 24Heavy, Future, Unfoonk & YTB Trench",
+      "has_synced": true,
+      "path": "select/11_Mob_Ties_Remix_(feat._Unfoonk,_24Heavy,_Future_&_YTB_Trench)_Young_Stoner_Life_feat._Young_Thug,_24Heavy,_Future,_Unfoonk_&_YTB_Trench.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mob Ties Remix (feat. Unfoonk, 24heavy, Future & Ytb Trench)",
+      "artist": "Young Stoner Life",
+      "has_synced": true,
+      "path": "select/12_Mob_Ties_Remix_(feat._Unfoonk,_24heavy,_Future_&_Ytb_Trench)_Young_Stoner_Life.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yammy Gang (feat. ASAP Mob & Tatianna Paulino)",
+      "artist": "A$AP Ferg",
+      "has_synced": false,
+      "path": "select/13_Yammy_Gang_(feat._ASAP_Mob_&_Tatianna_Paulino)_A$AP_Ferg.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baby I'm Yours (La Funk Mob instrumental remix)",
+      "artist": "Breakbot",
+      "has_synced": false,
+      "path": "select/14_Baby_I'm_Yours_(La_Funk_Mob_instrumental_remix)_Breakbot.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Mob Rules",
+      "artist": "Black Sabbath",
+      "has_synced": true,
+      "path": "select/15_The_Mob_Rules_Black_Sabbath.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Am the Mob",
+      "artist": "Catatonia",
+      "has_synced": true,
+      "path": "select/16_I_Am_the_Mob_Catatonia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "mob",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_mob_SUPER_BEAVER.txt"
+    }
+  ]
+}
